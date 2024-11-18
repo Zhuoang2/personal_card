@@ -1,0 +1,117 @@
+# Dependencies
+node_modules/
+bower_components/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+.env.test
+.env.production
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+._*
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Build directories
+dist/
+build/
+out/
+public/
+
+# Temporary files
+tmp/
+temp/
+*.swp
+*~
+
+# Test coverage
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# Private keys and certificates
+*.pem
+*.key
+*.crt
+*.csr
+*.p12
+
+# Package lock files (optional, uncomment if you don't want to commit lock files)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Optional REPL history
+.node_repl_history
+
+# SASS cache
+.sass-cache/
+
+# CodeClimate and SonarQube artifacts
+.codeclimate.yml
+.sonarcloud.properties
+
+# Mac-specific files
+.AppleDouble
+.LSOverride
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary backups
+*.bak
+
+# Compiled binary addons (node-gyp)
+build/Release
+
+# NPM debug files
+npm-debug.log*
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Parcel-bundler cache
+.cache
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+
+# Gatsby files
+.cache/
+public/
+
+# Comment out the following line if you want to commit your .env files
+# .env
